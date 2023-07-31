@@ -28,7 +28,7 @@ I created dimension tables for customers, products, regions and time to facilita
 DAX allowed me to calculate aggregated measures, perform cohort analysis, and generate trend analyses. Some examples:
 
 <details>
-<summary>KPI last_year_diff ▲</summary>
+<summary>KPI card for Current sales vs PY Sales</summary>
 
 ---
 
@@ -124,21 +124,8 @@ Cohort_Performance =
                 && Dim_Customers[First_Transaction_Month] <= _MaxDate
         )
 ```
-
-
-## Dashboard Screenshots 📈🔍
-
-Here are some snapshots from the Power BI dashboard:
-
-![Sales Overview](dashboard_sales_overview.png)
-
-![Product-wise Analysis](dashboard_product_analysis.png)
-
-![Customer Cohorts](dashboard_customer_cohorts.png)
-
-![Revenue Trends](dashboard_revenue_trends.png)
-
-Please note that these screenshots provide just a glimpse of the dashboard's capabilities. To experience the full interactivity and insights, I encourage you to clone the repository and explore the Power BI file yourself.
+---
+</details>
 
 ## Feedback and Collaboration 🙌
 
@@ -147,6 +134,3 @@ I'm eager to hear your thoughts and suggestions on the project. If you have any 
 Thank you for your interest in this project, and I hope this dashboard inspires you to delve deeper into the world of data visualization and analytics!
 
 Happy analyzing! 🚀📊
-
-**Note:** To access the interactive dashboard and explore the full project, download the Power BI file from the [Releases](link-to-releases) section.
-
