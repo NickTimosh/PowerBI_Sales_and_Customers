@@ -124,8 +124,10 @@ Cohort_Performance =
                 && Dim_Customers[First_Transaction_Month] <= _MaxDate
         )
 ```
+
 ---
 </details>
+
 
 ## Feedback and Collaboration 🙌
 
