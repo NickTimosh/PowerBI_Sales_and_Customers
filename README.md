@@ -131,7 +131,7 @@ Cohort_Performance =
 
 ## Feedback and Collaboration 🙌
 
-I'm eager to hear your thoughts and suggestions on the project. If you have any feedback regarding the data modeling, DAX formulas, or visualization choices, please don't hesitate to open an issue or reach out to me directly. I'm also open to collaboration and welcome any contributions that could enhance the dashboard's functionalities!
+If you have any feedback regarding the data modeling, DAX formulas, or visualization choices, please don't hesitate to open an issue or reach out to me directly. I'm also open to collaboration and welcome any contributions that could enhance the dashboard's functionalities!
 
 Thank you for your interest in this project, and I hope this dashboard inspires you to delve deeper into the world of data visualization and analytics!
 
