@@ -1,4 +1,4 @@
-# Power BI Sales & Cohort Analysis Dashboard 📊
+# Power BI Sales & Cohort Analysis Dashboard 📊✨
 
 Welcome to the GitHub repository for my exciting Power BI project - a Sales and Customers Analysis Dashboard!!!
 
